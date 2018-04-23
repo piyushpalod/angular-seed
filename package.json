@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "This is a basic starter project to initialize your project using Angular and gulp. It follows MVC architecture and uses the perfect app structure to enhance productivity",
   "main": "index.js",
-  "scripts" : {
-    "preinstall" : "npm install gulp -g && npm install bower -g"
+  "scripts": {
+    "preinstall": "npm install gulp -g && npm install bower -g"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mohitvirli/angular-gulp-seed.git"
+    "url": "https://github.com/piyushpalod/angular-seed.git"
   },
   "keywords": [
     "angular",
@@ -30,10 +30,9 @@
     "gulp-useref": "^3.0.4",
     "run-sequence": "^1.2.1"
   },
-  "author": "Mohit Virli",
-  "license": "MIT",
+  "author": "PIYUSH PALOD",
   "bugs": {
-    "url": "https://github.com/mohitvirli/angular-gulp-seed/issues"
+    "url": "https://github.com/piyushpalod/angular-seed/issues"
   },
-  "homepage": "https://github.com/mohitvirli/angular-gulp-seed#readme"
+  "homepage": "https://github.com/piyushpalod/angular-seed#readme"
 }
